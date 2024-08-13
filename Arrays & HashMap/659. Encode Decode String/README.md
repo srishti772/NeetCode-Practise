@@ -6,17 +6,6 @@
 
 Design an algorithm to encode a list of strings to a single string. The encoded string is then decoded back to the original list of strings.
 
-### Example
-
-**Input:**
-
-```java
-Codec codec = new Codec();
-List<String> strs = Arrays.asList("hello", "world");
-String encodedString = codec.encode(strs);
-List<String> decodedStrings = codec.decode(encodedString);
-
-
 # Encode and Decode Strings
 
 ## Problem Statement
